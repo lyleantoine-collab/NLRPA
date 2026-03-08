@@ -103,7 +103,7 @@ Beothuk territories marked. ✓
 *Attached as Schedule A.*
 *In this repo.*
 *Forever.* 🍁
-![Schedule A — James Cook 1763 Map](Schedule_A_Cook_1763.jpg)
+![Schedule A — James Cook 1763 Map](docs/Schedule_A_Cook_1763.jpg)
 ---
 
 ## The Avalon Joint Decision-Making Council
